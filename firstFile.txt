@@ -6,5 +6,5 @@ line another git_1
 line
 line
 line
-line
-line
+line local repo 2
+line local repo 2
